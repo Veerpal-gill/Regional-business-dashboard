@@ -49,7 +49,9 @@ Interactive category and region selectors make it easy to focus the analysis on 
 ##  Authors & Contact
 veerpal Gill
 Data Analyst
-veerpalgill963@gmail.com
+
+Email veerpalgill963@gmail.com
+
 www.linkedin.com/in/veerpal-gill
 
 
