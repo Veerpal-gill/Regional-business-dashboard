@@ -46,5 +46,12 @@ Interactive category and region selectors make it easy to focus the analysis on 
 ## Screenshot
 <img width="1155" height="657" alt="Regional Bussines sales dashboard" src="https://github.com/user-attachments/assets/0140b9a0-0cfe-4416-a76e-8b418e852dff" />
 
+##  Authors & Contact
+veerpal Gill
+Data Analyst
+veerpalgill963@gmail.com
+www.linkedin.com/in/veerpal-gill
+
+
 
 
